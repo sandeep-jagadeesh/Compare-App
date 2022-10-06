@@ -2,7 +2,7 @@
 A side project designed completely on AWS Cloud Service - Backend language NodeJS - Functions are inside AWS Lambda(Serverless Compute), AWS API Gateway, AWS DynamoDB, AWS Cognito, AWS S3 , Front End : AngularJS and TypeScript
 
 
-#SignUp Page
+# SignUp Page
 
 Password : 
 1) Use at least 12 characters
